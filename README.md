@@ -1,2 +1,1 @@
-# StopWatch
-JAVASCRIPT PROJECT
+https://ronakdadhich.github.io/StopWatch/
